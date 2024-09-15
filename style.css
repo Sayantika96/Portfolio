@@ -269,16 +269,15 @@ section {
 .about-containers,
 .about-details-container {
     display: flex;
+    padding-right: 5%;
+    
 }
 
-.about-pic {
-    border-radius: 2rem;
-}
 
 .arrow {
     position: absolute;
     right: -5rem;
-    bottom: 2.5rem;
+    bottom: 1rem;
 }
 
 .details-container {
